@@ -1,0 +1,55 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#table{
+border: 0px;
+width: 100%;
+text-align: center;
+}
+
+.row1{
+    background-color: rgb(1, 94, 1);
+    color: white;
+    height: 35px;
+}
+
+.row2{
+    background-color: rgb(224, 224, 224);
+    height: 25px;
+}
+.row3{
+    background-color: rgb(172, 170, 170);
+    height: 25px;
+}
+
+
+.row4{
+    background-color: rgb(224, 224, 224);
+    height: 25px;
+}
+.row5{
+    background-color: rgb(172, 170, 170);
+    height: 25px;
+}
+
+
+.row6{
+    background-color: rgb(224, 224, 224);
+    height: 25px;
+}
+.row7{
+    background-color: rgb(172, 170, 170);
+    height: 25px;
+}
+
+#userform{
+    background-color:rgb(5, 56, 90);
+    color: white;
+    width: 50%;
+    padding: 10px;
+    border: 1px solid rgb(100, 99, 99);
+    border-radius: 10px;
+}
